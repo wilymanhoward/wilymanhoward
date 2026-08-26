@@ -30,7 +30,7 @@ I am a **Game Developer & Technical Artist** studying *Digital Media Technology*
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=unity,unreal,cs,cpp,ts,git,github,blender,figma,vscode,visualstudio&perline=6" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=unity,unreal,cs,cpp,flutter,dart,git,github,blender,figma,vscode,visualstudio&perline=6" alt="Tech Stack Icons" />
 </a>
 
 <br/><br/>
@@ -38,8 +38,8 @@ I am a **Game Developer & Technical Artist** studying *Digital Media Technology*
 | Domain | Key Competencies & Technologies |
 | :--- | :--- |
 | **🎮 Game Engines** | Unity 3D (2021+ / 6), Unreal Engine 5 |
-| **💻 Programming** | C#, C++, TypeScript, HLSL / ShaderLab |
-| **🌐 Multiplayer** | Photon Unity Networking (PUN 2), Room Matchmaking, RPCs, State Synchronization |
+| **💻 Programming** | C#, C++, Dart, TypeScript, HLSL / ShaderLab |
+| **🌐 Multiplayer & Cloud** | Photon PUN 2, State Sync, RPCs, Firebase (Auth, Firestore) |
 | **🎨 Technical Art** | Shader Graph, VFX Graph, Decal Systems, Post-Processing, Universal Render Pipeline (URP) |
 | **🤖 AI & Gameplay** | Behavior Trees, NavMesh Pathfinding, Locomotion & Sliding Physics, Inverse Kinematics (IK) |
 
@@ -47,7 +47,7 @@ I am a **Game Developer & Technical Artist** studying *Digital Media Technology*
 
 ---
 
-## 🚀 Featured Game Projects
+## 🚀 Featured Projects
 
 ### 🌊 [AquaStrike](https://github.com/wilymanhoward/AquaStrike) *(Multiplayer 3D Arena Shooter)*
 > **Tech**: Unity, Photon PUN 2, C#, URP, Procedural Audio & Decal VFX  
@@ -70,6 +70,13 @@ I am a **Game Developer & Technical Artist** studying *Digital Media Technology*
 - Architected foundational Level 1 gameplay systems and responsive pirate combat state machine.
 - Integrated AI enemy behavior trees for challenging tactical encounters.
 - Developed interactive cinematic cutscene triggers and asynchronous loading screen transitions.
+
+---
+
+### 📱 [CODU](https://github.com/NelsenKeane/Codu) *(Cross-Platform Mobile Application)*
+> **Tech**: Flutter, Dart, Firebase Authentication, Cloud Services, Audio Engine  
+- Implemented real-time user authentication and session persistence via Firebase Auth.
+- Designed seamless background lifecycle audio management and responsive multi-platform UI workflows.
 
 ---
 
