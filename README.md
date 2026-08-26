@@ -57,17 +57,19 @@ I am a **Game Developer & Technical Artist** studying *Digital Media Technology*
 
 ---
 
+### 🏛️ [We Were Mummies](https://github.com/wilymanhoward) *(Co-op Puzzle Adventure)*
+> **Role**: Lead Gameplay & Systems Programmer | **Tech**: Unity, C#, Co-op Puzzle Logic, Environmental Physics  
+- Engineered collaborative puzzle interaction systems and synchronized ancient tomb puzzle mechanisms.
+- Built responsive character interaction controllers, item inventory management, and physics-based trigger locks.
+- Designed dynamic environmental hazards, trap state machines, and immersive audio-visual puzzle feedback.
+
+---
+
 ### 🏴‍☠️ [SeaVagabond: An Unfinished Legacy](https://github.com/wilymanhoward) *(Open-World Action Adventure)*
 > **Role**: Lead Gameplay Programmer (Level 1) | **Tech**: Unity, C#, Water VFX Shaders, Behavior Trees  
 - Architected foundational Level 1 gameplay systems and responsive pirate combat state machine.
 - Integrated AI enemy behavior trees for challenging tactical encounters.
 - Developed interactive cinematic cutscene triggers and asynchronous loading screen transitions.
-
----
-
-### ⚡ [Neon Odyssey](https://github.com/wilymanhoward) *(Open-World Locomotion)*
-> **Role**: Lead Gameplay Programmer | **Tech**: Unreal Engine 5, C++, Multiplayer  
-- Engineered full character locomotion systems and custom NavMesh pathfinding across expansive terrain.
 
 ---
 
