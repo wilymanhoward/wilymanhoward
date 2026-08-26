@@ -57,7 +57,7 @@ I am a **Game Developer & Technical Artist** studying *Digital Media Technology*
 
 ---
 
-### 🏛️ [We Were Mummies](https://github.com/wilymanhoward) *(Co-op Puzzle Adventure)*
+### 🏛️ [We Were Mummies](https://github.com/wilymanhoward/Online-Game-Final-Project) *(Co-op Puzzle Adventure)*
 > **Role**: Lead Gameplay & Systems Programmer | **Tech**: Unity, C#, Co-op Puzzle Logic, Environmental Physics  
 - Engineered collaborative puzzle interaction systems and synchronized ancient tomb puzzle mechanisms.
 - Built responsive character interaction controllers, item inventory management, and physics-based trigger locks.
