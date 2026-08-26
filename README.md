@@ -4,10 +4,10 @@
 ### **Game Developer & Technical Artist**
 *Specializing in Gameplay Systems, Multiplayer Networking & Shader Engineering*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Website-0078D6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://wilymanhoward.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Website-0078D6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://howard-wilyman-portfolio.web.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/howard-wilyman-595833297/)
+[![Email](https://img.shields.io/badge/Email-wilymanhoward%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wilymanhoward@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-wilymanhoward-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wilymanhoward)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:howardwilyman@example.com)
 
 <p align="center">
   <b>Bridging the gap between robust architectural code and expressive visual art to craft memorable player experiences.</b>
@@ -82,6 +82,6 @@ I am a **Game Developer & Technical Artist** studying *Digital Media Technology*
 
 ## 📬 Let's Connect!
 
-- 🌐 **Portfolio Website**: [View Live Portfolio](https://wilymanhoward.github.io)
-- 💼 **LinkedIn**: [linkedin.com/in/howard-wilyman](https://linkedin.com)
-- ✉️ **Email**: `wilymanhoward@gmail.com`
+- 🌐 **Portfolio Website**: [howard-wilyman-portfolio.web.app](https://howard-wilyman-portfolio.web.app/)
+- 💼 **LinkedIn**: [linkedin.com/in/howard-wilyman-595833297](https://www.linkedin.com/in/howard-wilyman-595833297/)
+- ✉️ **Email**: [wilymanhoward@gmail.com](mailto:wilymanhoward@gmail.com)
