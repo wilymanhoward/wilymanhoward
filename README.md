@@ -1,13 +1,11 @@
 <div align="center">
 
-# 🎮 Howard Wilyman
-### **Game Developer & Technical Artist**
-*Specializing in Gameplay Systems, Multiplayer Networking & Shader Engineering*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0078D6,00C6FF&height=180&section=header&text=Howard%20Wilyman&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Game%20Developer%20%7C%20Technical%20Artist&descAlignY=62&descAlign=50" alt="Howard Wilyman Header" width="100%" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live_Website-0078D6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://howard-wilyman-portfolio.web.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/howard-wilyman-595833297/)
 [![Email](https://img.shields.io/badge/Email-wilymanhoward%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wilymanhoward@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-wilymanhoward-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wilymanhoward)
+[![Profile Views](https://komarev.com/ghpvc/?username=wilymanhoward&style=for-the-badge&color=0078D6)](https://github.com/wilymanhoward)
 
 <p align="center">
   <b>Bridging the gap between robust architectural code and expressive visual art to craft memorable player experiences.</b>
@@ -27,15 +25,23 @@ I am a **Game Developer & Technical Artist** studying *Digital Media Technology*
 
 ---
 
-## 🛠️ Tech Stack & Disciplines
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-| Engines & Languages | Systems & Architecture | Technical Art & Graphics |
-| :--- | :--- | :--- |
-| ![Unity](https://img.shields.io/badge/Unity-2021%2B-000000?style=flat-square&logo=unity&logoColor=white) ![Unreal](https://img.shields.io/badge/Unreal_Engine_5-313131?style=flat-square&logo=unrealengine&logoColor=white) | **Multiplayer**: Photon PUN 2, State Sync, RPCs | **Shaders**: HLSL, Shader Graph, VFX Graph |
-| ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) | **Locomotion**: Sliding, Crouch Lerping, Physics | **Art & Pipeline**: URP / HDRP, Render Pass |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![HLSL](https://img.shields.io/badge/HLSL-Graphics-9B59B6?style=flat-square) | **AI & Navigation**: Behavior Trees, NavMesh | **Animation**: Inverse Kinematics (IK), Tweens |
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=unity,unreal,cs,cpp,ts,git,github,blender,figma,vscode,visualstudio&perline=6" alt="Tech Stack Icons" />
+</a>
+
+<br/><br/>
+
+| Domain | Key Competencies & Technologies |
+| :--- | :--- |
+| **🎮 Game Engines** | Unity 3D (2021+ / 6), Unreal Engine 5 |
+| **💻 Programming** | C#, C++, TypeScript, HLSL / ShaderLab |
+| **🌐 Multiplayer** | Photon Unity Networking (PUN 2), Room Matchmaking, RPCs, State Synchronization |
+| **🎨 Technical Art** | Shader Graph, VFX Graph, Decal Systems, Post-Processing, Universal Render Pipeline (URP) |
+| **🤖 AI & Gameplay** | Behavior Trees, NavMesh Pathfinding, Locomotion & Sliding Physics, Inverse Kinematics (IK) |
 
 </div>
 
@@ -62,22 +68,6 @@ I am a **Game Developer & Technical Artist** studying *Digital Media Technology*
 ### ⚡ [Neon Odyssey](https://github.com/wilymanhoward) *(Open-World Locomotion)*
 > **Role**: Lead Gameplay Programmer | **Tech**: Unreal Engine 5, C++, Multiplayer  
 - Engineered full character locomotion systems and custom NavMesh pathfinding across expansive terrain.
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=wilymanhoward&show_icons=true&theme=tokyonight&count_private=true" alt="Howard's GitHub Stats" />
-<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wilymanhoward&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=wilymanhoward&theme=tokyonight" alt="GitHub Streak" />
-
-</div>
-
 
 ---
 
