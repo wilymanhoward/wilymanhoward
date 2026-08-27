@@ -81,13 +81,10 @@ I am a **Game Developer & Technical Artist** studying *Digital Media Technology*
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="195" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wilymanhoward&show_icons=true&theme=tokyonight&count_private=true" alt="Howard's GitHub Stats" />
-  <img height="195" src="https://github-readme-streak-stats-eight.vercel.app/?user=wilymanhoward&theme=tokyonight" alt="GitHub Streak" />
+  <img height="195" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wilymanhoward&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" alt="Top Languages" />
+  <img height="195" src="https://github-readme-streak-stats-eight.vercel.app/?user=wilymanhoward&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img height="190" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wilymanhoward&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
-</p>
 
 
 
