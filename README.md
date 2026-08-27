@@ -7,16 +7,15 @@
 [![Email](https://img.shields.io/badge/Email-wilymanhoward%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wilymanhoward@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=wilymanhoward&style=for-the-badge&color=0078D6)](https://github.com/wilymanhoward)
 
-
 ---
 
 </div>
 
 ## 👨‍💻 About Me
 
-I am a **Game Developer & Technical Artist** studying *Digital Media Technology* at XMUM. My expertise centers around **Unity (C#)** and **Unreal Engine (C++)**, focusing on responsive gameplay architecture, real-time multiplayer systems, AI behavior trees, and custom shader development (HLSL / Shader Graph).
+I am a **Game Developer & Technical Artist** studying *Digital Media Technology* at XMUM. My expertise centers around **Unity (C#)** and **Unreal Engine (C++)**, focusing on responsive gameplay architecture, real-time multiplayer systems, AI behavior trees, 3D modeling/rigging in **Autodesk Maya**, and custom shader development (HLSL / Shader Graph).
 
-- 🛠️ **Core Strengths**: Gameplay Programming, Multiplayer Synchronization, Technical Art & Shaders, State Machine Architecture.
+- 🛠️ **Core Strengths**: Gameplay Programming, Multiplayer Synchronization, Technical Art & Shaders, 3D Pipeline & Rigging.
 - 🎯 **Design Philosophy**: High-performance, modular, and cleanly documented code built for team scalability.
 - 💼 **Looking for**: Gameplay Programmer / Technical Artist / Game Developer roles.
 
@@ -29,6 +28,10 @@ I am a **Game Developer & Technical Artist** studying *Digital Media Technology*
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=unity,unreal,cs,cpp,flutter,dart,git,github,blender,figma,vscode,visualstudio&perline=6" alt="Tech Stack Icons" />
 </a>
+<br/>
+<a href="https://www.autodesk.com/products/maya/">
+  <img src="https://img.shields.io/badge/Autodesk_Maya-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" alt="Autodesk Maya Badge" />
+</a>
 
 <br/><br/>
 
@@ -36,8 +39,8 @@ I am a **Game Developer & Technical Artist** studying *Digital Media Technology*
 | :--- | :--- |
 | **🎮 Game Engines** | Unity 3D (2021+ / 6), Unreal Engine 5 |
 | **💻 Programming** | C#, C++, Dart, TypeScript, HLSL / ShaderLab |
-| **🌐 Multiplayer & Cloud** | Photon PUN 2, State Sync, RPCs, Firebase (Auth, Firestore) |
-| **🎨 Technical Art** | Shader Graph, VFX Graph, Decal Systems, Post-Processing, Universal Render Pipeline (URP) |
+| **🎨 3D & Technical Art** | **Autodesk Maya**, Blender, Shader Graph, VFX Graph, Decal Systems, Universal Render Pipeline (URP) |
+| **🌐 Multiplayer & Cloud** | Photon Unity Networking (PUN 2), Room Matchmaking, RPCs, State Synchronization, Firebase |
 | **🤖 AI & Gameplay** | Behavior Trees, NavMesh Pathfinding, Locomotion & Sliding Physics, Inverse Kinematics (IK) |
 
 </div>
@@ -74,6 +77,21 @@ I am a **Game Developer & Technical Artist** studying *Digital Media Technology*
 > **Tech**: Flutter, Dart, Firebase Authentication, Cloud Services, Audio Engine  
 - Implemented real-time user authentication and session persistence via Firebase Auth.
 - Designed seamless background lifecycle audio management and responsive multi-platform UI workflows.
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wilymanhoward&show_icons=true&theme=tokyonight&count_private=true" alt="Howard's GitHub Stats" />
+<img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wilymanhoward&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=wilymanhoward&theme=tokyonight" alt="GitHub Streak" />
+
+</div>
 
 ---
 
