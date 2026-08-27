@@ -7,9 +7,6 @@
 [![Email](https://img.shields.io/badge/Email-wilymanhoward%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wilymanhoward@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=wilymanhoward&style=for-the-badge&color=0078D6)](https://github.com/wilymanhoward)
 
-<p align="center">
-  <b>Bridging the gap between robust architectural code and expressive visual art to craft memorable player experiences.</b>
-</p>
 
 ---
 
