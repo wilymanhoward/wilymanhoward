@@ -89,9 +89,10 @@ I am a **Game Developer & Technical Artist** studying *Digital Media Technology*
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=wilymanhoward&theme=tokyonight&v=2" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=wilymanhoward&theme=tokyonight" alt="GitHub Streak" />
 
 </div>
+
 
 
 ---
