@@ -29,17 +29,15 @@ I am a **Game Developer & Technical Artist** studying *Digital Media Technology*
   <img src="https://skillicons.dev/icons?i=unity,unreal,cs,cpp,flutter,dart,git,github,blender,figma,vscode,visualstudio&perline=6" alt="Tech Stack Icons" />
 </a>
 <br/>
-<a href="https://www.autodesk.com/products/maya/">
-  <img src="https://img.shields.io/badge/Autodesk_Maya-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" alt="Autodesk Maya Badge" />
-</a>
+
 
 <br/><br/>
 
 | Domain | Key Competencies & Technologies |
 | :--- | :--- |
-| **🎮 Game Engines** | Unity 3D (2021+ / 6), Unreal Engine 5 |
+| **🎮 Game Engines** | Unity 3D (2021+ / 6), Unreal Engine 5, Godot|
 | **💻 Programming** | C#, C++, Dart, TypeScript, HLSL / ShaderLab |
-| **🎨 3D & Technical Art** | **Autodesk Maya**, Blender, Shader Graph, VFX Graph, Decal Systems, Universal Render Pipeline (URP) |
+| **🎨 3D & Technical Art** | Autodesk Maya, Blender, Shader Graph, VFX Graph, Decal Systems, Universal Render Pipeline (URP) |
 | **🌐 Multiplayer & Cloud** | Photon Unity Networking (PUN 2), Room Matchmaking, RPCs, State Synchronization, Firebase |
 | **🤖 AI & Gameplay** | Behavior Trees, NavMesh Pathfinding, Locomotion & Sliding Physics, Inverse Kinematics (IK) |
 
