@@ -63,7 +63,7 @@ I am a **Game Developer & Technical Artist** studying *Digital Media Technology*
 
 ---
 
-### 🏴‍☠️ [SeaVagabond: An Unfinished Legacy](https://github.com/wilymanhoward) *(Open-World Action Adventure)*
+### 🏴‍☠️ [SeaVagabond](https://github.com/wilymanhoward) *(Open-World Action Adventure)*
 > **Role**: Lead Gameplay Programmer (Level 1) | **Tech**: Unity, C#, Water VFX Shaders, Behavior Trees  
 - Architected foundational Level 1 gameplay systems and responsive pirate combat state machine.
 - Integrated AI enemy behavior trees for challenging tactical encounters.
