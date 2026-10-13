@@ -92,6 +92,6 @@ I am a **Game Developer & Technical Artist** studying *Digital Media Technology*
 
 ## 📬 Let's Connect!
 
-- 🌐 **Portfolio Website**: [howard-wilyman-portfolio.web.app](https://howardw.web.app/)
+- 🌐 **Portfolio Website**: [howardw.web.app](https://howardw.web.app/)
 - 💼 **LinkedIn**: [linkedin.com/in/howard-wilyman-595833297](https://www.linkedin.com/in/howard-wilyman-595833297/)
 - ✉️ **Email**: [wilymanhoward@gmail.com](mailto:wilymanhoward@gmail.com)
