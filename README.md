@@ -13,10 +13,6 @@ My portfolio has everything in one place: **[howardw.web.app](https://howardw.we
   <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wilymanhoward&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=0969da&text_color=8b949e" alt="Most used languages" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=wilymanhoward&hide_border=true&background=00000000&ring=0969da&fire=0969da&currStreakLabel=0969da&currStreakNum=8b949e&sideNums=8b949e&sideLabels=8b949e&dates=8b949e&stroke=8b949e40" alt="Contribution streak" />
-</p>
-
 <br>
 
 #### What I'm working on
@@ -44,9 +40,9 @@ I also worked on SeaVagabond, a pirate adventure game where I programmed Level 1
 
 #### Tools I use
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=unity,unreal,cs,cpp,kotlin,androidstudio,ts,react,electron,vite,firebase,blender,maya,git&perline=14" alt="Unity, Unreal, C#, C++, Kotlin, Android Studio, TypeScript, React, Electron, Vite, Firebase, Blender, Maya, Git" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=unity,unreal,cs,cpp,kotlin,androidstudio,ts,react,electron,vite,firebase,blender,git&perline=13" alt="Unity, Unreal, C#, C++, Kotlin, Android Studio, TypeScript, React, Electron, Vite, Firebase, Blender, Git" /></a>
 
-Also Jetpack Compose, Meta XR SDK, Photon, HLSL and Shader Graph.
+Also Jetpack Compose, Meta XR SDK, Photon, HLSL and Shader Graph, and Maya.
 
 <br>
 
