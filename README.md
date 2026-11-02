@@ -1,108 +1,40 @@
-<div align="center">
+### Hi, I'm Howard.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0078D6,00C6FF&height=180&section=header&text=Howard%20Wilyman&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Gameplay%20%26%20Software%20Developer%20%7C%20XR%20%7C%20Android&descAlignY=62&descAlign=50" alt="Howard Wilyman Header" width="100%" />
+I study Digital Media Technology at XMUM and spend most of my time making games and XR projects in Unity and Unreal. Lately I've also been writing Android apps in Kotlin and a desktop browser in TypeScript.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-howardw.web.app-0078D6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://howardw.web.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/howard-wilyman-595833297/)
-[![Email](https://img.shields.io/badge/Email-wilymanhoward%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wilymanhoward@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=wilymanhoward&style=for-the-badge&color=0078D6)](https://github.com/wilymanhoward)
+My portfolio has everything in one place: **[howardw.web.app](https://howardw.web.app/)**
 
-</div>
+[Portfolio](https://howardw.web.app/) · [LinkedIn](https://www.linkedin.com/in/howard-wilyman-595833297/) · [Email](mailto:wilymanhoward@gmail.com)
 
----
+<br>
 
-## 👨‍💻 About Me
+#### What I'm working on
 
-I'm a **Gameplay & Software Developer** studying *Digital Media Technology* at XMUM. I build games and XR experiences in **Unity (C#)** and **Unreal Engine (C++)**, and native apps for **Android** and the **desktop** in **Kotlin** and **TypeScript**.
+My final year project is a mixed reality detective game for two Meta Quest 3 headsets in the same room. Both players see the same crime scene in the same spot in the room, pick up clues with their hands, and solve the case together. I'm using it for an HCI study that compares playing solo with playing as a pair. It's built in Unity 6 with Shared Spatial Anchors and Netcode for GameObjects. [Repo](https://github.com/wilymanhoward/Final-Year-Project)
 
-- 🥽 **Now building**: a co-located Mixed Reality detective game for two Meta Quest 3 headsets (my Final Year Project).
-- 🛠️ **Core strengths**: gameplay programming, multiplayer sync, XR / MR interaction, native Android (Jetpack Compose), technical art & shaders.
-- 💼 **Looking for**: Gameplay Programmer / XR Developer / Software Developer roles.
+<br>
 
-🌐 **See everything in one place on my portfolio: [howardw.web.app](https://howardw.web.app/)**
+#### Things I've built
 
----
+| Project | What it is |
+| :-- | :-- |
+| [**DeskDeck**](https://github.com/wilymanhoward/DeskDeck) | A music screen for an Android tablet that sits on my desk. It controls whatever app is playing and shows synced lyrics, with burn-in protection for AMOLED screens. Kotlin, Jetpack Compose. |
+| [**Drift**](https://github.com/wilymanhoward/drift-browser) | A small Chromium browser for Windows with a sidebar, workspaces and split view. Electron, React, TypeScript. |
+| [**ReelVault**](https://github.com/wilymanhoward/ReelVault) | Saves TikToks, Reels and Shorts from the share sheet into one place that works offline. Kotlin, Room, Firebase. [Website](https://reelvault-2945c.web.app) |
+| [**QuestBeam**](https://github.com/wilymanhoward/QuestBeam) | Wireless screen sharing from a Quest 3 to a laptop browser over WebRTC, written in native Kotlin instead of Unity. [Receiver](https://questbeam.web.app) |
+| [**Museum Exploration MR**](https://github.com/wilymanhoward/Museum-Exploration-MR) | A mixed reality gallery for the Terengganu State Museum that turns a real room into exhibit space. Unity, Meta XR SDK. |
+| [**AquaStrike**](https://github.com/wilymanhoward/AquaStrike) | A 1v1 online water-gun shooter with room codes, a lobby and in-game chat. Unity, Photon PUN 2. |
+| [**We Were Mummies**](https://github.com/wilymanhoward/We-Were-Mummies) | A co-op puzzle game set in a tomb. I was the lead gameplay and systems programmer. Unity. |
+| [**DMT412 AR Cards**](https://github.com/wilymanhoward/DMT412-AR-Cards) | An AR greeting card and business card for a class assignment. Unity, Vuforia. |
 
-## 🛠️ Tech Stack
+I also worked on SeaVagabond, a pirate adventure game where I programmed Level 1, and on [CODU](https://github.com/NelsenKeane/Codu), a Flutter app with Firebase sign-in.
 
-<div align="center">
+<br>
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=unity,unreal,cs,cpp,kotlin,androidstudio,ts,react,electron,vite,firebase,threejs,blender,figma,git,github&perline=8" alt="Tech Stack Icons" />
-</a>
+#### Tools I use
 
-<br/><br/>
+Unity, Unreal Engine 5, C#, C++, Kotlin, Jetpack Compose, TypeScript, React, Electron, Firebase, Meta XR SDK, Photon, HLSL and Shader Graph, Maya, Blender.
 
-| Domain | Technologies |
-| :--- | :--- |
-| **🎮 Game Engines** | Unity 6 / 2022 LTS (URP), Unreal Engine 5, Godot |
-| **🥽 XR / MR** | Meta XR SDK, MR Utility Kit, Shared Spatial Anchors, XR Hands, Vuforia |
-| **📱 Android** | Kotlin, Jetpack Compose, Room, WebRTC, Media Sessions |
-| **🖥️ Desktop & Web** | TypeScript, React, Electron, Vite, Tailwind, Three.js, GSAP |
-| **🌐 Multiplayer & Cloud** | Unity Netcode, Photon PUN 2, Firebase |
-| **🎨 Technical Art** | HLSL / Shader Graph, VFX Graph, Autodesk Maya, Blender |
+<br>
 
-</div>
-
----
-
-## 🚀 Featured Projects
-
-### 🕵️ [Co-located MR Detective Game](https://github.com/wilymanhoward/Final-Year-Project) *(Final Year Project)*
-> **Tech**: Unity 6, URP, Meta XR SDK, Shared Spatial Anchors, Unity Netcode, hand tracking
-- Two Meta Quest 3 players see the same virtual crime scene anchored in the same physical room.
-- Built for an HCI user study comparing solo vs. team play, with timed cases and logged measures.
-
-### 🎵 [DeskDeck](https://github.com/wilymanhoward/DeskDeck) *(Android tablet music dashboard)*
-> **Tech**: Kotlin, Jetpack Compose, Media Sessions, LRCLIB
-- Android Auto-style now-playing screen that controls any music app, with word-by-word synced lyrics.
-- Burn-in protection, in-app notifications, and a StandBy-style bedside clock for AMOLED tablets.
-
-### 🌐 [Drift](https://github.com/wilymanhoward/drift-browser) *(Chromium desktop browser)*
-> **Tech**: Electron, TypeScript, React, Vite
-- A minimal browser for Windows with a customizable sidebar, workspaces, and split view.
-- Browser imports, privacy shields, and default-browser registration.
-
-### 🎬 [ReelVault](https://github.com/wilymanhoward/ReelVault) *(Android app · [live site](https://reelvault-2945c.web.app))*
-> **Tech**: Kotlin, Jetpack Compose, Room, Firebase
-- Saves TikToks, Reels, Shorts and more from any app's share sheet into one offline vault.
-- Cleans links, removes duplicates, and syncs and shares collections across devices.
-
-### ⚡ [QuestBeam](https://github.com/wilymanhoward/QuestBeam) *(Quest screen sharing · [live receiver](https://questbeam.web.app))*
-> **Tech**: Native Kotlin, Jetpack Compose, WebRTC
-- Low-latency wireless screen casting from Meta Quest 3 straight to any laptop browser, no Unity runtime.
-
-### 🏛️ [Museum Exploration MR](https://github.com/wilymanhoward/Museum-Exploration-MR) *(Mixed Reality heritage app)*
-> **Tech**: Unity 2022 LTS, Meta XR SDK, MRUK, XR Hands
-- Turns a real room into an interactive gallery for the Terengganu State Museum, Malaysia.
-
-### 🃏 [DMT412 AR Cards](https://github.com/wilymanhoward/DMT412-AR-Cards) *(AR greeting & business card)*
-> **Tech**: Unity, Vuforia
-
----
-
-### 🎮 Earlier Game Projects
-
-| Project | What it is | Tech |
-| :--- | :--- | :--- |
-| 🌊 [AquaStrike](https://github.com/wilymanhoward/AquaStrike) | Multiplayer 1v1 water-gun arena shooter with room codes, lobby and chat | Unity, Photon PUN 2, URP |
-| 🏺 [We Were Mummies](https://github.com/wilymanhoward/We-Were-Mummies) | Co-op tomb puzzle adventure (lead gameplay & systems programmer) | Unity, C# |
-| 🏴‍☠️ SeaVagabond | Open-world pirate action adventure (lead gameplay programmer, Level 1) | Unity, C#, Behavior Trees |
-| 📱 [CODU](https://github.com/NelsenKeane/Codu) | Cross-platform mobile app with Firebase auth | Flutter, Dart, Firebase |
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="195" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wilymanhoward&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" alt="Top Languages" />
-  <img height="195" src="https://github-readme-streak-stats-eight.vercel.app/?user=wilymanhoward&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## 📬 Let's Connect!
-
-- 🌐 **Portfolio**: [howardw.web.app](https://howardw.web.app/)
-- 💼 **LinkedIn**: [linkedin.com/in/howard-wilyman-595833297](https://www.linkedin.com/in/howard-wilyman-595833297/)
-- ✉️ **Email**: [wilymanhoward@gmail.com](mailto:wilymanhoward@gmail.com)
+I'm looking for work as a gameplay programmer, XR developer or software developer. If you have something in mind, email me at [wilymanhoward@gmail.com](mailto:wilymanhoward@gmail.com).
