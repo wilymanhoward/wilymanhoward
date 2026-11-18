@@ -1,115 +1,60 @@
-<div align="center">
+### Hi, I'm Howard.
 
-<table width="100%">
-<tr>
-<td width="64%" valign="middle">
-<p><sub>RECRUITER SIGNAL BRIEF · wilymanhoward</sub></p>
-<h1>Howard Wilyman</h1>
-<h2>Frontend or full-stack engineer</h2>
-<p>Building useful software and sharing the work in public.</p>
-<p><strong>● Building and sharing work in public</strong></p>
-<p><sub>Based in Malaysia</sub></p>
-<p><a href="https://github.com/wilymanhoward">GitHub</a> &nbsp;·&nbsp; <a href="https://howard-s-game-portfolio.vercel.app/">Website</a></p>
-</td>
-<td width="36%" valign="middle" align="center">
-<img src="https://avatars.githubusercontent.com/u/80814358?u=93dbd9b0a0157d50d4e2ae9bf16de4248e400cb8&amp;v=4" width="180" alt="Howard Wilyman GitHub avatar" />
-</td>
-</tr>
-</table>
-</div>
+I study Digital Media Technology at XMUM and spend most of my time making games and XR projects in Unity and Unreal. Lately I've also been writing Android apps in Kotlin and a desktop browser in TypeScript.
 
-<h2>What teams can evaluate quickly</h2>
+My portfolio has everything in one place.
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · C# · Kotlin · TypeScript</p></td>
-<td width="33%" valign="top"><h3>Public proof</h3><p>18 repositories · 4 stars</p></td>
-<td width="33%" valign="top"><h3>Momentum</h3><p>766 contributions · 133 active days</p></td>
-</tr>
-</table>
+<a href="https://howardw.web.app/"><img src="https://img.shields.io/badge/Portfolio-0969DA?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/howard-wilyman-595833297/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg==" alt="LinkedIn" /></a>
+<a href="mailto:wilymanhoward@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-<p><sub>Building useful software and sharing the work in public.</sub></p>
-
-<h2>Proof at a glance</h2>
-
-<table width="100%">
-<tr>
-<td width="25%" align="center"><strong>18</strong><br /><sub>Repositories</sub></td>
-<td width="25%" align="center"><strong>4</strong><br /><sub>Stars</sub></td>
-<td width="25%" align="center"><strong>766</strong><br /><sub>Contributions</sub></td>
-<td width="25%" align="center"><strong>2</strong><br /><sub>Followers</sub></td>
-</tr>
-</table>
+<br>
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=wilymanhoward&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F80814358%3Fu%3D93dbd9b0a0157d50d4e2ae9bf16de4248e400cb8%26v%3D4&v=recruiter-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=wilymanhoward&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F80814358%3Fu%3D93dbd9b0a0157d50d4e2ae9bf16de4248e400cb8%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Howard Wilyman GitHub proof metrics" />
-</picture>
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wilymanhoward&show_icons=true&hide_border=true&bg_color=00000000&title_color=0969da&icon_color=0969da&text_color=8b949e" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wilymanhoward&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=0969da&text_color=8b949e" alt="Most used languages" />
 </p>
 
-<h2>Selected work</h2>
+<br>
 
-<table width="100%">
-<tr>
-<td width="58%" valign="top">
+#### What I'm working on
+
+My final year project is a mixed reality detective game for two Meta Quest 3 headsets in the same room. Both players see the same crime scene in the same spot in the room, pick up clues with their hands, and solve the case together. I'm using it for an HCI study that compares playing solo with playing as a pair. It's built in Unity 6 with Shared Spatial Anchors and Netcode for GameObjects. [Repo](https://github.com/wilymanhoward/Final-Year-Project)
+
+<br>
+
+#### Things I've built
+
+| Project | What it is |
+| :-- | :-- |
+| [**DeskDeck**](https://github.com/wilymanhoward/DeskDeck) | A music screen for an Android tablet that sits on my desk. It controls whatever app is playing and shows synced lyrics, with burn-in protection for AMOLED screens. Kotlin, Jetpack Compose. |
+| [**Drift**](https://github.com/wilymanhoward/drift-browser) | A small Chromium browser for Windows with a sidebar, workspaces and split view. Electron, React, TypeScript. |
+| [**ReelVault**](https://github.com/wilymanhoward/ReelVault) | Saves TikToks, Reels and Shorts from the share sheet into one place that works offline. Kotlin, Room, Firebase. [Website](https://reelvault-2945c.web.app) |
+| [**QuestBeam**](https://github.com/wilymanhoward/QuestBeam) | Wireless screen sharing from a Quest 3 to a laptop browser over WebRTC, written in native Kotlin instead of Unity. [Receiver](https://questbeam.web.app) |
+| [**Museum Exploration MR**](https://github.com/wilymanhoward/Museum-Exploration-MR) | A mixed reality gallery for the Terengganu State Museum that turns a real room into exhibit space. Unity, Meta XR SDK. |
+| [**AquaStrike**](https://github.com/wilymanhoward/AquaStrike) | A 1v1 online water-gun shooter with room codes, a lobby and in-game chat. Unity, Photon PUN 2. |
+| [**We Were Mummies**](https://github.com/wilymanhoward/We-Were-Mummies) | A co-op puzzle game set in a tomb. I was the lead gameplay and systems programmer. Unity. |
+| [**DMT412 AR Cards**](https://github.com/wilymanhoward/DMT412-AR-Cards) | An AR greeting card and business card for a class assignment. Unity, Vuforia. |
+
+I also worked on SeaVagabond, a pirate adventure game where I programmed Level 1, and on [CODU](https://github.com/NelsenKeane/Codu), a Flutter app with Firebase sign-in.
+
+<br>
+
+#### Tools I use
+
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=unity,unreal,cs,cpp,kotlin,androidstudio,ts,react,electron,vite,firebase,blender,git&perline=13" alt="Unity, Unreal, C#, C++, Kotlin, Android Studio, TypeScript, React, Electron, Vite, Firebase, Blender, Git" /></a>
+
+Also Jetpack Compose, Meta XR SDK, Photon, HLSL and Shader Graph, and Maya.
+
+<br>
+
+#### My contributions this year
+
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=wilymanhoward&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F80814358%3Fu%3D93dbd9b0a0157d50d4e2ae9bf16de4248e400cb8%26v%3D4&repos=wilymanhoward%2FWe-Were-Mummies%2Cwilymanhoward%2FMuseum-Exploration-MR%2Cwilymanhoward%2FCodu%2Cwilymanhoward%2FAquaStrike&v=recruiter-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=wilymanhoward&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F80814358%3Fu%3D93dbd9b0a0157d50d4e2ae9bf16de4248e400cb8%26v%3D4&repos=wilymanhoward%2FWe-Were-Mummies%2Cwilymanhoward%2FMuseum-Exploration-MR%2Cwilymanhoward%2FCodu%2Cwilymanhoward%2FAquaStrike&v=recruiter-projects-1&mode=dark" width="100%" alt="Howard Wilyman selected projects" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wilymanhoward/wilymanhoward/output/snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/wilymanhoward/wilymanhoward/output/snake.svg" alt="Snake eating my GitHub contribution graph" />
 </picture>
-</td>
-<td width="42%" valign="top">
-<h3><a href="https://github.com/wilymanhoward/We-Were-Mummies">We-Were-Mummies</a></h3>
-<p>A selected public project.</p>
-<p><sub>C# · ⭐ 1 · 🍴 0</sub></p>
-<p><a href="https://github.com/wilymanhoward/We-Were-Mummies">Read the repository →</a></p>
-</td>
-</tr>
-</table>
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3><a href="https://github.com/wilymanhoward/Museum-Exploration-MR">Museum-Exploration-MR</a></h3><p>A selected public project.</p><p><sub>C# · ⭐ 2</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/NelsenKeane/Codu">Codu</a></h3><p>A selected public project.</p><p><sub>Dart · ⭐ 0</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/wilymanhoward/AquaStrike">AquaStrike</a></h3><p>A selected public project.</p><p><sub>C# · ⭐ 0</sub></p></td>
-</tr>
-</table>
+<br>
 
-<h2>Technical toolkit</h2>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=wilymanhoward&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F80814358%3Fu%3D93dbd9b0a0157d50d4e2ae9bf16de4248e400cb8%26v%3D4&v=recruiter-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=wilymanhoward&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F80814358%3Fu%3D93dbd9b0a0157d50d4e2ae9bf16de4248e400cb8%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Howard Wilyman technology stack" />
-</picture>
-</p>
-
-<table width="100%">
-<tr>
-<td width="20%" align="center"><strong>C#</strong><br /><sub>62% of public code</sub></td>
-<td width="20%" align="center"><strong>Kotlin</strong><br /><sub>11% of public code</sub></td>
-<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>8% of public code</sub></td>
-<td width="20%" align="center"><strong>Python</strong><br /><sub>5% of public code</sub></td>
-<td width="20%" align="center"><strong>ShaderLab</strong><br /><sub>4% of public code</sub></td>
-</tr>
-</table>
-
-<h2>Consistency signal</h2>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=wilymanhoward&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F80814358%3Fu%3D93dbd9b0a0157d50d4e2ae9bf16de4248e400cb8%26v%3D4&v=recruiter-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=wilymanhoward&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F80814358%3Fu%3D93dbd9b0a0157d50d4e2ae9bf16de4248e400cb8%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Howard Wilyman contribution activity" />
-</picture>
-</p>
-
-<hr />
-
-<table width="100%">
-<tr>
-<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
-<td width="38%" valign="middle" align="right"><a href="https://github.com/wilymanhoward">GitHub</a><br /><a href="https://howard-s-game-portfolio.vercel.app/">Website</a></td>
-</tr>
-</table>
-
-<p align="center"><sub>Howard Wilyman · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+I'm looking for work as a gameplay programmer, XR developer or software developer. If you have something in mind, email me at [wilymanhoward@gmail.com](mailto:wilymanhoward@gmail.com).
